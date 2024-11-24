@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srushti-1336
+- 👋 Hi, I’m @Srushtip
 - 👀I aim to harness data analytics and technology to unlock valuable insights, address complex challenges, and contribute meaningfully to important projects.
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me [...](https://www.linkedin.com/in/srushti-patil-802819206/)
